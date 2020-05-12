@@ -12,11 +12,11 @@
 ## Final project
 * A Deep Learning Approach of the Prediction of Tissue Regeneration near Implant
 
-###Structure  
+* Structure  
 ![Extension_block](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/Final%20project/extension_block.PNG)
 ![Resnet_bottleneck](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/Final%20project/resnet_bottleneck.PNG)
 
-###Result 
+* Result 
 ![performance of network](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/Final%20project/scatterplot.PNG)
 
 
