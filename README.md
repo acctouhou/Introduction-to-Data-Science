@@ -2,7 +2,7 @@
 
 ## Homework
 * Homework01
-manifold learning isomap
+manifold learning isomap  
 ![isomap](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/HW1/isomap.PNG)  
 
 * Homework02
