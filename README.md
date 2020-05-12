@@ -10,4 +10,6 @@
 * Homework07
 ## Final project
 * A Deep Learning Approach of the Prediction of Tissue Regeneration near Implant
+![performance of network](https://octodex.github.com/images/yaktocat.png)
+
 
