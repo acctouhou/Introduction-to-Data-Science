@@ -14,11 +14,11 @@
 
 * Structure  
 
-Extension_block
+** Extension_block
 ![Extension_block](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/Final%20project/extension_block.png)
 
 
-Resnet_bottleneck
+** Resnet_bottleneck
 ![Resnet_bottleneck](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/Final%20project/resnet%20bottleneck.png)
 
 
