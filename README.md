@@ -24,7 +24,7 @@ correlation_table
 ![table](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/HW5/correlation_table.PNG)  
 
 * Homework06
-grid search hyperparameters  
+grid search hyperparameters of SVM(support vector machine)  
 ![GRID](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/HW6/svm_gridsearch.PNG)  
 
 * Homework07
