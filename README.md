@@ -14,7 +14,7 @@
 
 * Structure  
 ![Extension_block](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/Final%20project/extension_block.png)
-![Resnet_bottleneck](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/Final%20project/resnet_bottleneck.png)
+![Resnet_bottleneck](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/Final%20project/resnet%20bottleneck.png)
 
 * Result 
 ![performance of network](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/Final%20project/scatterplot.PNG)
