@@ -25,7 +25,7 @@ correlation_table
 
 * Homework06
 grid search hyperparameters
-![GRID](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/HW5/correlation_table.PNG)
+![GRID](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/HW6/svm_gridsearch.PNG)
 
 * Homework07
 Interpret on random forest
