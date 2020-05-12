@@ -15,7 +15,7 @@ Denoising Autoencoder
 Network structure 
 ![NN](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/HW3/ae.PNG)
 Result 
-![pca](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/HW2/pca.PNG)
+![pca](https://github.com/acctouhou/Introduction-to-Data-Science/blob/master/HW3/denoise.PNG)
 
 * Homework04
 
