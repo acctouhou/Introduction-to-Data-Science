@@ -1,0 +1,7 @@
+1.對資料至少能畫出三種圖(draw at least 3 pictures)
+
+2.能依照類別上不同顏色(use different colors according to category)
+
+3.從畫的圖中，找出訊息，例如極端值 (From the drawn picture, find the message, such as the extreme value)
+
+4.Explain why you choose these visualized methods

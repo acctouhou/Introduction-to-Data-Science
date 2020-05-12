@@ -1,0 +1,11 @@
+1.Calculate IQR(Q3-Q1) for numeric variables
+
+2.Sorting or ordering numeric variables
+
+3.Show correlation matrix
+
+4.Draw box plot for category (p.19)
+
+5.Draw a histogram with density curve (p.22)
+
+6.Give your point of view what you found in this dataset

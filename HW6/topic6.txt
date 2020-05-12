@@ -1,0 +1,19 @@
+從資料中，使用一個或多個變數當作input(x變量)，對一個欲分析變數當作output(y變量)進行迴歸分析
+
+From the data, one or more variables are used as input (x variable), and a output variable (y variable) to do regression analysis
+
+1.解釋為何使用這些變數當作x變量或y變量
+
+Explain why these variables are used as x variables or y variable.
+
+2.至少使用三種迴歸模型
+
+Use at least three regression models
+
+3.比較並解釋這些模型的好壞，可以比較殘差，畫二維圖，或是其他結果
+
+Compare and explain these models,you can compare residuals, draw 2D plots, or others
+
+4.從這些模型中，觀察出y變量與x變量之間的關係
+
+From these models,observe the relationship between the y variable and the x variables .
